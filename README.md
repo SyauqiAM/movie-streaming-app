@@ -1,17 +1,37 @@
-# movie_streaming_app
+# Movie Streaming App
 
-A new Flutter project.
+Aplikasi katalog film berbasis Flutter dengan tampilan dark theme.
 
-## Getting Started
+## Fitur
+- Now Playing dengan carousel slider.
+- Daftar film Trending.
+- Daftar film Popular.
+- Daftar film Top Rated.
+- Bottom navigation bar: Home, Genre, dan Favorite.
+- Tampilan poster film.
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter
+- Dart
+- carousel_slider
+- flutter_card_swiper
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Menjalankan
+1. Clone repository:
+   bash
+  
+2. Masuk ke folder project:
+   bash
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+3. Install dependencies:
+   bash
+   
+4. Jalankan aplikasi:
+   ```bash
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Repository
+https://github.com/SyauqiAM/movie-streaming-app
+
+
+SyauqiAM
