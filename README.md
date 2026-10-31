@@ -33,5 +33,7 @@ Aplikasi katalog film berbasis Flutter dengan tampilan dark theme.
 ## Repository
 https://github.com/SyauqiAM/movie-streaming-app
 
+## VideoDemo
+https://drive.google.com/file/d/1jzzfXsABDs1VILvFku4GIlfscRfybgKx/view?usp=sharing
 
 SyauqiAM
